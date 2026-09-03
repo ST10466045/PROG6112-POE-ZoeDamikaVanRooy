@@ -5,3 +5,5 @@ Add initial ERD
  Update ERD Users entity
  Add Organisers entity
  Add Participants entity
+ Add Events entity
+Add Categories entity
