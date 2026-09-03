@@ -4,4 +4,4 @@ PROG6112-POE-Part1-ZoeDamikaVanRooy
 Add initial ERD
  Update ERD Users entity
  Add Organisers entity
-
+ Add Participants entity
