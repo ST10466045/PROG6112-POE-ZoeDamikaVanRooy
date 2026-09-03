@@ -7,3 +7,5 @@ Add initial ERD
  Add Participants entity
  Add Events entity
 Add Categories entity
+Add EventEnrolments entity
+
