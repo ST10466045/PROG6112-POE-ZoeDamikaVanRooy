@@ -9,4 +9,4 @@ Add initial ERD
 Add Categories entity
 Add EventEnrolments entity
 Add Results entity
-
+Add ERD relationships
