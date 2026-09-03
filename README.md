@@ -12,5 +12,6 @@ Add Results entity
 Add ERD relationships
 Add API endpoint plan
 Add authentication endpoints
+Add event endpoints
 
 
