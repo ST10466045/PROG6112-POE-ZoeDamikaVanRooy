@@ -8,4 +8,4 @@ Add initial ERD
  Add Events entity
 Add Categories entity
 Add EventEnrolments entity
-
+Add Results entity
