@@ -10,3 +10,4 @@ Add Categories entity
 Add EventEnrolments entity
 Add Results entity
 Add ERD relationships
+Add API endpoint plan
